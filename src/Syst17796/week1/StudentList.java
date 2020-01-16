@@ -14,7 +14,7 @@ public class StudentList {
      */
     public static void main(String[] args) {
     
-//        Student s1=new Student();
+        Student s1=new Student();
 //        
 //        s1.setName("Megha");
 //        System.out.println("name: "+ s1.getName());
