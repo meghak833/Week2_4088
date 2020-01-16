@@ -16,7 +16,7 @@ public class StudentList {
     
         Student s1=new Student();
 //        
-//        s1.setName("Megha");
+        s1.setName("Megha");
 //        System.out.println("name: "+ s1.getName());
 //        
         Student[] s=new Student[2];
