@@ -24,8 +24,13 @@ public class Student {
     public void setId(int id) {
         this.id = id;
     }
-
-    /**
+//setter for programName
+    public void setProgramName(String n)
+    {
+        this.programName=n;
+    }
+        
+        /**
      * @return the name
      */
     public String getName() {
